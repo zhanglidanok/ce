@@ -1,6 +1,6 @@
 <template>
     <div>
-         这里是详情页
+         这里是详情页1111
     </div>
 
 </template>

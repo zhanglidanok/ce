@@ -1,5 +1,5 @@
 <template>
-    <h2 >11{{msg}}</h2>
+    <h2 >11{{msg}}111333366666666666612222</h2>
 </template>
 <script>
 export default {
